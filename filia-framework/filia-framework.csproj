@@ -12,7 +12,7 @@
   <ItemGroup>
     <PackageReference Include="Silk.NET" Version="2.17.1" />
     <PackageReference Include="Silk.NET.Assimp" Version="2.17.1" />
-    <PackageReference Include="SixLabors.ImageSharp" Version="3.0.1" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="3.1.3" />
 	<Content Include="assets/**" Link="assets/%(RecursiveDir)/%(Filename)%(Extension)">
 	    <PackagePath>assets/</PackagePath>
 	    <Pack>true</Pack>
